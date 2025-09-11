@@ -15,9 +15,9 @@ import { serviceIds } from '@pimcore/studio-ui-bundle/app'
 import { type IconLibrary } from '@pimcore/studio-ui-bundle/modules/icon-library'
 
 // @ts-ignore
-import mailIcon from '../assets/mail.svg?react'
+import mailIcon from '../../assets/mail.svg?react'
 // @ts-ignore
-import notificationRuleIcon from '../assets/notification-rule.svg?react'
+import notificationRuleIcon from '../../assets/notification-rule.svg?react'
 
 export const NotificationBundleIconModule: AbstractModule = {
   onInit(): void {
