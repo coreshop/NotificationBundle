@@ -20,8 +20,8 @@
       "api": ""
     },
     "globalName": "coreshopnotification",
-    "pluginVersion": "2.4.0",
-    "publicPath": "/bundles/coreshopnotification/studio/d8d1dd05-7fa7-4c93-ad1c-b0e9c7759a3e/"
+    "pluginVersion": "2.5.1",
+    "publicPath": "/bundles/coreshopnotification/studio/7d5da417-8769-4bf8-be6c-276947bf1ed1/"
   },
   "shared": [
     {
