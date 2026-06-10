@@ -21,7 +21,7 @@
     },
     "globalName": "coreshopnotification",
     "pluginVersion": "2.4.0",
-    "publicPath": "/bundles/coreshopnotification/studio/ad382c10-037f-4601-8a1e-d085fe77f24d/"
+    "publicPath": "/bundles/coreshopnotification/studio/af3742e5-8a68-49fb-af43-e4348242e48c/"
   },
   "shared": [
     {
@@ -35,7 +35,7 @@
           "async": [],
           "sync": [
             "static/js/async/232.a2597033.js",
-            "static/js/async/739.922c9024.js"
+            "static/js/async/739.48faf05f.js"
           ]
         },
         "css": {
@@ -56,7 +56,7 @@
           "async": [],
           "sync": [
             "static/js/async/44.86849162.js",
-            "static/js/async/768.14662a9e.js"
+            "static/js/async/768.4d9c0283.js"
           ]
         },
         "css": {
@@ -76,8 +76,8 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/460.0eebecd1.js",
-            "static/js/async/79.9443db1f.js"
+            "static/js/async/460.159003ee.js",
+            "static/js/async/79.859d3e6d.js"
           ]
         },
         "css": {
@@ -97,7 +97,7 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/920.0ec3fad5.js"
+            "static/js/async/920.8f970b5c.js"
           ]
         },
         "css": {
@@ -117,7 +117,7 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/63.39a52574.js"
+            "static/js/async/63.97800f88.js"
           ]
         },
         "css": {
@@ -137,8 +137,8 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/695.4f8ed5bb.js",
-            "static/js/async/76.66f6da49.js"
+            "static/js/async/695.5d83f80d.js",
+            "static/js/async/76.aabacd55.js"
           ]
         },
         "css": {
@@ -208,15 +208,15 @@
       "assets": {
         "js": {
           "sync": [
-            "static/js/937.ba2f9284.js",
+            "static/js/937.b8c9709d.js",
             "static/js/387.b3ebc683.js",
-            "static/js/275.f1f11e94.js",
-            "static/js/655.e7e36a59.js",
-            "static/js/async/663.706d390b.js",
-            "static/js/async/844.7e75e270.js",
-            "static/js/719.3813ac48.js",
-            "static/js/398.ff0a14d4.js",
-            "static/js/async/__federation_expose_default_export.435421ef.js"
+            "static/js/275.6346e2bd.js",
+            "static/js/655.6bd2febc.js",
+            "static/js/async/663.40c124c3.js",
+            "static/js/async/844.8bd9cb65.js",
+            "static/js/402.88b8ea8b.js",
+            "static/js/398.71dcca75.js",
+            "static/js/async/__federation_expose_default_export.645e7635.js"
           ],
           "async": []
         },
