@@ -7,7 +7,7 @@
         window.alternativePluginExportPaths = {}
       }
 
-      window.pluginRemotes.coreshopnotification = "/bundles/coreshopnotification/studio/f792564b-6260-4a31-a054-1dfee95f2445/static/js/remoteEntry.js"
+      window.pluginRemotes.coreshopnotification = "/bundles/coreshopnotification/studio/ce437749-b3b2-4ea9-b1a5-b657d481fc5f/static/js/remoteEntry.js"
 
       
     
