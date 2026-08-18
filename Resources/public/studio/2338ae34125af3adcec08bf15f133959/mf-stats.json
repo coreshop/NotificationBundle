@@ -21,7 +21,7 @@
     },
     "globalName": "coreshopnotification",
     "pluginVersion": "2.8.0",
-    "publicPath": "/bundles/coreshopnotification/studio/c596d4df67cc281297c67ecf6cd81057/"
+    "publicPath": "/bundles/coreshopnotification/studio/2338ae34125af3adcec08bf15f133959/"
   },
   "shared": [
     {
@@ -447,7 +447,7 @@
           "sync": [
             "static/js/604.732955c8.js",
             "static/js/398.6af2db9a.js",
-            "static/js/async/__federation_expose_default_export.7e922151.js"
+            "static/js/async/__federation_expose_default_export.f21e2275.js"
           ],
           "async": [
             "static/js/async/254.55cf06c3.js",
